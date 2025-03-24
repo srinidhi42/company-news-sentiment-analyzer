@@ -1,0 +1,6 @@
+gTTS
+deep-translator
+requests
+streamlit
+torch
+transformers
