@@ -16,7 +16,6 @@ Python 3.8 or later
 
 Git
 
-Steps
 ## Clone the Repository
 
 Open your terminal and run:
@@ -37,11 +36,11 @@ venv\Scripts\activate
 ## Install Dependencies
 
 Make sure you have a requirements.txt file containing:
-gTTS
-deep-translator
-requests
-streamlit
-torch
+gTTS;
+deep-translator;
+requests;
+streamlit;
+torch;
 transformers
 
 pip install -r requirements.txt
